@@ -3,6 +3,7 @@ name = "yagg"
 version = "0.1.0"
 authors = ["Remfath Chan <remfath@gmail.com>"]
 edition = "2018"
+license = "MIT"
 
 [dependencies]
 rand = "0.5.5"
