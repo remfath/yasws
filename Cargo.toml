@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Remfath Chan <remfath@gmail.com>"]
 edition = "2018"
 license = "MIT"
-description = "Yet another number gueess game"
+description = "Yet another number guess game"
 
 [dependencies]
 rand = "0.5.5"
