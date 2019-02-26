@@ -1,10 +1,9 @@
 [package]
-name = "yagg"
-version = "0.1.2"
+name = "yasws"
+version = "0.0.1"
 authors = ["Remfath Chan <remfath@gmail.com>"]
 edition = "2018"
 license = "MIT"
-description = "Yet another number guess game"
+description = "yet another simple web server written by rust"
 
 [dependencies]
-rand = "0.5.5"
